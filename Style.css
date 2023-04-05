@@ -1,0 +1,181 @@
+
+.Subscribe-Button{
+    background-color: red;
+    color: white;
+    border: 1px solid;
+    width: 120px;
+    height: 43px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: opacity 1s;   
+}
+.Subscribe-Button:hover{
+    opacity: 0.7;
+}
+.Subscribe-Button:active{
+    opacity: 0.3;
+}
+.Join-Button{
+background-color: white;
+color: rgb(41, 118, 211);
+border-style: solid;
+border-color:rgb(41, 118, 211) ;
+    border-width: 1px;
+    margin-left: 11px;
+    height: 43px;
+    width: 80px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-right: 11px;
+    transition: background-color 0.15s, 
+    color 0.15s;
+}
+.Join-Button:hover{
+    background-color:rgb(41, 118, 211) ;
+    color: white;
+}
+.Join-Button:active{
+    opacity: 0.7;
+}
+.Tweet-Button{
+background-color: rgb(2, 158, 255);
+border: none;
+height: 43px;
+width: 90px;
+border-radius: 29px;
+font-weight: bold;
+cursor: pointer;
+color: white;
+transition: box-shadow 0.15s;
+}
+.Tweet-Button:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+.Strech-Button{
+    margin: 23px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-weight: 600;
+    background-color: green;
+    border: 1px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.Strech-Button:hover{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.Strech-Button:active{
+    opacity: 0.7;
+}
+.Strech-Button1{
+    margin-left: 9px;
+    margin-right: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-weight: 600;
+    background-color: green;
+    border: 1px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.Strech-Button1:hover{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.Strech-Button1:active{
+    opacity: 0.5;
+}
+.Strech-Button{
+    margin: 23px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-weight: 600;
+    background-color: green;
+    border: 1px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.Strech-Button:hover{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.Strech-Button:active{
+    opacity: 0.7;
+}
+.Strech-Button2{
+    margin-left: 9px;
+    margin-right: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-weight: 600;
+    background-color: green;
+    border: 1px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.Strech-Button2:hover{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.Strech-Button2:active{
+    opacity: 0.5;
+}
+.Strech-Button3{
+    margin-left: 9px;
+    margin-right: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-weight: 600;
+    background-color: green;
+    border: 1px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.Strech-Button3:hover{
+   padding-bottom: 40px;
+   padding-top: 40px;
+}
+.Strech-Button3:active{
+    opacity: 0.5;
+}
+.Strech-Button4{
+    margin-left: 9px;
+    margin-right: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-weight: 600;
+    background-color: green;
+    border: 1px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.Strech-Button4:active{
+    opacity: 0.5;
+    margin-top: 3px;
+    margin-left: 3px;  
+}
